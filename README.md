@@ -1,1 +1,4 @@
-# .github
+# chasing brains
+
+
+blog.chasingbrains.co
