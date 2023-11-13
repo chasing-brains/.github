@@ -1,4 +1,5 @@
 # chasing brains
 
 
-blog.chasingbrains.co
+- [blog.chasingbrains.co](https://blog.chasingbrains.co)
+
