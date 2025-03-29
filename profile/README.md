@@ -17,3 +17,6 @@ Links:
 - [blog.chasingbrains.co](https://blog.chasingbrains.co)
 - X: [@mike_the_brain](https://x.com/mike_the_brain)
 
+
+## Projects
+- [vibeicons.com](https://vibeicons.com)
