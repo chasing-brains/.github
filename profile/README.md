@@ -20,3 +20,4 @@ Links:
 
 ## Projects
 - [vibeicons.com](https://vibeicons.com)
+- [windowhints.com](https://windowhints.com)
